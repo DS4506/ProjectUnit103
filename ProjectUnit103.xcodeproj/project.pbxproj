@@ -45,6 +45,11 @@
 			path = ProjectUnit103UITests;
 			sourceTree = "<group>";
 		};
+		47AE69862E2C281600C1C726 /* Practice */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Practice;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +84,7 @@
 				47AE696A2E2C278000C1C726 /* ProjectUnit103Tests */,
 				47AE69742E2C278000C1C726 /* ProjectUnit103UITests */,
 				47AE695B2E2C277E00C1C726 /* Products */,
+				47AE69862E2C281600C1C726 /* Practice */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				47AE695C2E2C277E00C1C726 /* ProjectUnit103 */,
+				47AE69862E2C281600C1C726 /* Practice */,
 			);
 			name = ProjectUnit103;
 			packageProductDependencies = (
