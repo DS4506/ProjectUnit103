@@ -67,7 +67,7 @@ print("")
 import Foundation
 
 // Array to store student names
-let studentNames = ["Dave", "Epifanio", "Roy", "Fernanda", "Will"]
+var studentNames = ["Dave", "Epifanio", "Roy", "Fernanda", "Will"]
 
 // Dictionary to store student grades
 var studentGrades: [String: [Int]] = [

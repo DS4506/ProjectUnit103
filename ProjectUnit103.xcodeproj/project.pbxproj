@@ -50,6 +50,11 @@
 			path = Practice;
 			sourceTree = "<group>";
 		};
+		47AE698D2E2F0F7400C1C726 /* Assignments */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Assignments;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +85,7 @@
 		47AE69512E2C277E00C1C726 = {
 			isa = PBXGroup;
 			children = (
+				47AE698D2E2F0F7400C1C726 /* Assignments */,
 				47AE695C2E2C277E00C1C726 /* ProjectUnit103 */,
 				47AE696A2E2C278000C1C726 /* ProjectUnit103Tests */,
 				47AE69742E2C278000C1C726 /* ProjectUnit103UITests */,
@@ -116,6 +122,7 @@
 			fileSystemSynchronizedGroups = (
 				47AE695C2E2C277E00C1C726 /* ProjectUnit103 */,
 				47AE69862E2C281600C1C726 /* Practice */,
+				47AE698D2E2F0F7400C1C726 /* Assignments */,
 			);
 			name = ProjectUnit103;
 			packageProductDependencies = (
