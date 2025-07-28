@@ -20,7 +20,7 @@ struct Student: Identifiable {
 struct Assignment2: View {
     @State private var students: [Student] = [
         Student(name: "Dave", grades: [85, 82, 86]),
-        Student(name: "fernado", grades: [90, 93, 92]),
+        Student(name: "fernada", grades: [90, 93, 92]),
         Student(name: "Epifanio", grades: [75, 80, 78])
     ]
     
